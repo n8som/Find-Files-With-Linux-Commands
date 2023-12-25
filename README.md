@@ -24,25 +24,25 @@ In this task, I must use the commands I learned about to check the current worki
    
 2. Display the names of the files and directories in the current working directory.
    
-Here, I can see the current working directory:
+Here, I can see the current working directory after using the ```pwd``` command:
 
-[image]
+![image](https://github.com/n8som/Find-Files-With-Linux-Commands/assets/110139109/2dbc2109-1cf4-4d07-8114-545ed0097211)
 
-I can see that the current working directory contains [] directories:
+I can see that the current working directory contains 4 directories after using the ```ls``` command:
 
-[image]
+![image](https://github.com/n8som/Find-Files-With-Linux-Commands/assets/110139109/01ccf874-3462-41be-ac83-783ab3b47d79)
 
 <h2>Task 2. Change Directory and List the Subdirectories</h2>
 
 In this task, I must navigate to a new directory and determine the subdirectories it contains.
 
-1. Navigate to the ```/home/analyst/reports``` directory.
+1. Navigate to the ```/home/analyst/reports``` directory using the ```cd``` command.
 
 2. Display the files and subdirectories in the ```/home/analyst/reports``` directory.
 
-Here, I can see the name of the subdirectory in the ```/home/analyst/reports``` directory:
+Here, I can see the name of the subdirectory, "users", in the ```/home/analyst/reports``` directory:
 
-[image]
+![image](https://github.com/n8som/Find-Files-With-Linux-Commands/assets/110139109/e43717cb-474a-47bb-8ca3-c053726203d7)
 
 <h2>Task 3. Locate and Read the Contents of a File</h2>
 
@@ -54,13 +54,9 @@ In this task, I must navigate to a subdirectory and read the contents of a file 
 
 3. Display the contents of the ```Q1_added_users.txt``` file.
 
-Here, I can see that the employee with the username “aezra” works in the [] department:
+Here, I can see that the employee with the username “aezra” works in the Human Resources department and the employee_id, 1104, of the user "mreed" in the Information Technology department:
 
-[image]
-
-Here, I can see the employee_id of the user “mreed” in the Information Technology department:
-
-[image]
+![image](https://github.com/n8som/Find-Files-With-Linux-Commands/assets/110139109/5b9523bb-b73a-4a6e-8942-0687c80a2daf)
 
 <h2>Task 4. Navigate to a Directory and Locate a File</h2>
 
@@ -70,11 +66,11 @@ In this task, I must navigate to a new directory, locate a file, and examine the
 
 2. Display the name of the file it contains.
 
-3. Display the first 10 lines of this file.
+3. Display the first 10 lines of this file using the ```head```.
 
-Here, I can see that there are [] warning messages in the first 10 lines of the ```server_logs.txt``` file:
+Here, I can see that there are 3 warning messages in the first 10 lines of the ```server_logs.txt``` file:
 
-[image]
+![image](https://github.com/n8som/Find-Files-With-Linux-Commands/assets/110139109/06c36058-876e-4289-a96a-81c55e6a58d1)
 
 <h2>Conclusion</h2>
 
